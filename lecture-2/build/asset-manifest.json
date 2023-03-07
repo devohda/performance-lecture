@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a82140ff.chunk.css",
+    "main.js": "/static/js/main.d1a003f6.chunk.js",
+    "main.js.map": "/static/js/main.d1a003f6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e6d2cd45.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e6d2cd45.js.map",
+    "static/js/2.b7132ea8.chunk.js": "/static/js/2.b7132ea8.chunk.js",
+    "static/js/2.b7132ea8.chunk.js.map": "/static/js/2.b7132ea8.chunk.js.map",
+    "static/css/3.41bc09fa.chunk.css": "/static/css/3.41bc09fa.chunk.css",
+    "static/js/3.1484483e.chunk.js": "/static/js/3.1484483e.chunk.js",
+    "static/js/3.1484483e.chunk.js.map": "/static/js/3.1484483e.chunk.js.map",
+    "static/js/4.ab3fe8b1.chunk.js": "/static/js/4.ab3fe8b1.chunk.js",
+    "static/js/4.ab3fe8b1.chunk.js.map": "/static/js/4.ab3fe8b1.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5fbd700fa1c3f8494272c70f7b7462d7.js": "/precache-manifest.5fbd700fa1c3f8494272c70f7b7462d7.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/3.41bc09fa.chunk.css.map": "/static/css/3.41bc09fa.chunk.css.map",
+    "static/css/main.a82140ff.chunk.css.map": "/static/css/main.a82140ff.chunk.css.map",
+    "static/js/2.b7132ea8.chunk.js.LICENSE.txt": "/static/js/2.b7132ea8.chunk.js.LICENSE.txt",
+    "static/media/london-2012.jpg": "/static/media/london-2012.ecf093d9.jpg",
+    "static/media/london-flag.png": "/static/media/london-flag.d110dfed.png",
+    "static/media/rio-2016.jpg": "/static/media/rio-2016.03a848a4.jpg",
+    "static/media/rio-flag.jpeg": "/static/media/rio-flag.e7607cdb.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6d2cd45.js",
+    "static/js/2.b7132ea8.chunk.js",
+    "static/css/main.a82140ff.chunk.css",
+    "static/js/main.d1a003f6.chunk.js"
+  ]
+}
