@@ -53,7 +53,7 @@ function MainPage(props) {
 						/>,
 						(<picture>
 							<source data-srcset={_main_parts} type='image/webp'/>
-							<img data-src={main_parts} />
+							<img src={main_parts} />
 						</picture>)
 					]}
 					mobileReverse={true}
